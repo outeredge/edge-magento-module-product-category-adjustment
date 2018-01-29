@@ -1,1 +1,1 @@
-# edge-magento-module-product-category-adjustment
+# Magento module for overriding the default product positioning when a products category has been changed.
