@@ -1,0 +1,22 @@
+
+{
+    "name": "outeredge/edge-magento-module-product-category-adjustment",
+    "type": "magento-module",
+    "description": "Product Category Adjustment Module by outer/edge",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gary Stone",
+            "email": "gary@outeredgeuk.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            ["app/code/local/edge/ProductCategoryAdjustment", "app/code/local/edge/ProductCategoryAdjustment"],
+            ["app/etc/modules/edge_ProductCategoryAdjustment.xml", "app/etc/modules/edge_ProductCategoryAdjustment.xml"]
+        ]
+    }
+}
