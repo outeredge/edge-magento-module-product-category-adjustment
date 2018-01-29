@@ -1,0 +1,1 @@
+# edge-magento-module-product-category-adjustment
