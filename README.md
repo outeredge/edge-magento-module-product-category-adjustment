@@ -1,1 +1,1 @@
-# Magento module for overriding the default product positioning when a products category has been changed.
+# PPC v0.0.1
