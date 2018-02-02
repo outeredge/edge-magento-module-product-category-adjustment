@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Outeredge_EdgeMagentoModuleProductCategoryAdjustment>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.0.1</version>
+    </Outeredge_EdgeMagentoModuleProductCategoryAdjustment>
+  </modules>
+</config>
