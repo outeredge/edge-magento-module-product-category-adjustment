@@ -2,7 +2,7 @@
 <config>
   <modules>
     <Outeredge_EdgeMagentoModuleProductCategoryAdjustment>
-      <version>0.0.1</version>
+      <version>1.0.0</version>
     </Outeredge_EdgeMagentoModuleProductCategoryAdjustment>
   </modules>
   <global>
