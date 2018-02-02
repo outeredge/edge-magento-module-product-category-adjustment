@@ -15,7 +15,7 @@
     "extra": {
         "map": [
             ["app/code/local/Outeredge/EdgeMagentoModuleProductCategoryAdjustment", "app/code/local/Outeredge/EdgeMagentoModuleProductCategoryAdjustment"],
-            ["app/etc/modules/Outeredge_EdgeMagentoModuleProductCategoryAdjustment.xml", "app/etc/modules/Outeredge_EdgeMagentoModuleProductCategoryAdjustment.xml"],
+            ["app/etc/modules/Outeredge_EdgeMagentoModuleProductCategoryAdjustment.xml", "app/etc/modules/Outeredge_EdgeMagentoModuleProductCategoryAdjustment.xml"]
         ]
     }
 }
